@@ -1,4 +1,4 @@
-# FOAFW-feuture-weighting-using-FOA
+# FOAFW-feature-weighting-using-FOA
 Java code for feature weighting using Forest Optimization Algorithm (FOAFW)
 This is a Java implementation of feature weighting using Forest Optimization Algorithm.
 Please be considered that you should add weka.jar as a library in your java code to run the code.
